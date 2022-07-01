@@ -1,0 +1,51 @@
+4
+Presidente
+1100
+Benicio
+58075663
+69
+83988776655
+27/03/2015
+75
+Engenharia de Computacao
+Mestre
+3
+Diretor
+1101
+Gabriela
+58055120
+115
+83977665544
+17/04/2022
+60
+Seguranca do trabalho
+Engenharia de Producao
+2
+Gerente
+1103
+Miguel
+58075240
+60
+83977665544
+15/11/2021
+50
+Producao
+2
+Gerente
+1105
+Mirela
+58075420
+97
+83966554433
+22/03/2017
+50
+Atendimento ao Cliente
+1
+Operario
+1107
+Ana Vitoria
+58055120
+98
+83944332211
+15/06/2019
+36

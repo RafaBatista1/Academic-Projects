@@ -1,0 +1,35 @@
+main : 
+
+menu : 
+
+    1 - Adicionar Funcionario ✓
+
+    2 - Editar Funcionario ✓
+
+    3 - Excluir Funcionario ✓
+
+    4 - Exibir Funcionarios ✓
+        
+        4.1 - Todos os Funcionarios ✓
+
+        4.2 - Baseado no tipo ✓
+
+    5 - buscar funcionário: nome(), data de ingresso(intervalo de tempo), endereço(bairro/cidade); ✓
+
+    6 - Conceder Aumento ✓
+
+    7 - Calcular folha salarial : inserir mês, Deverá ser executada uma rotina que irá gerar
+    aleatoriamente, mas apenas uma única vez, as informações como o número de dias
+    trabalhados no mês pelo funcionário e o número de horas extras trabalhadas. Usar regra que a
+    hora-extra equivale ao dobro daquilo pago para hora normal. Deverá também ser contabilizado
+    os descontos relativos ao imposto de renda e previdência social.
+    
+    8 - Imprimir folha salarial
+
+        8.1 - do funcionário
+            8.1.1 - mensal
+            8.1.2 - anual
+
+        8.2 - da empresa  
+            8.2.1 - mensal - qual mes
+            8.2.2 - anual
